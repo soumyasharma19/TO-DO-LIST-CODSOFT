@@ -1,4 +1,4 @@
-# TO-DO-LIST-CODSOFT
+# TO-DO-LIST
 # To-Do List App 📝
 
 <img src="img/ico.png" alt="To-Do List App" width="35" height="35">
@@ -60,13 +60,4 @@ The To-Do List app is a simple and efficient task management tool that helps you
 - For the app to work properly, you need to host it on a localhost or a server. Simply opening the index file as a web page won't provide the required functionality.
 
 
-## Try it Online 💻
 
-You can try the To Do List application online by following [this link](https://abkrishna.me/To-Do-List/).
-
-
-## Feedback and Support 💌
-
-Thank you for using my To-Do List app. I hope it helps you stay organized and productive. If you have any feedback, or suggestions, or encounter any issues, please feel free to contact the developer, Azim Baji Krishna, at azimbaji19@gmail.com
-
-Happy tasking! 😊
